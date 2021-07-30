@@ -1,0 +1,125 @@
+{
+	"tastes": {
+		"structure": {
+			"acidity": 3.5135484,
+			"fizziness": null,
+			"intensity": 3.0948389,
+			"sweetness": 1.3996774,
+			"tannin": 2.6503227,
+			"user_structure_count": 2,
+			"calculated_structure_count": 2
+		},
+		"flavor": [
+			{
+				"group": "red_fruit",
+				"stats": {
+					"count": 2,
+					"score": 200,
+					"mentions_count": 2
+				},
+				"primary_keywords": [
+					{
+						"id": 93,
+						"name": "cereja",
+						"count": 2
+					}
+				]
+			},
+			{
+				"group": "black_fruit",
+				"stats": {
+					"count": 1,
+					"score": 200,
+					"mentions_count": 2
+				},
+				"primary_keywords": [
+					{
+						"id": 43,
+						"name": "ameixa preta",
+						"count": 1
+					},
+					{
+						"id": 49,
+						"name": "amora",
+						"count": 1
+					}
+				]
+			},
+			{
+				"group": "citrus_fruit",
+				"stats": {
+					"count": 1,
+					"score": 200,
+					"mentions_count": 2
+				},
+				"primary_keywords": [
+					{
+						"id": 298,
+						"name": "laranja",
+						"count": 1
+					},
+					{
+						"id": 266,
+						"name": "marmelada",
+						"count": 1
+					}
+				]
+			},
+			{
+				"group": "spices",
+				"stats": {
+					"count": 1,
+					"score": 200,
+					"mentions_count": 2
+				},
+				"primary_keywords": [
+					{
+						"id": 416,
+						"name": "tomilho",
+						"count": 1
+					},
+					{
+						"id": 303,
+						"name": "orégano",
+						"count": 1
+					}
+				]
+			},
+			{
+				"group": "oak",
+				"stats": {
+					"count": 1,
+					"score": 175,
+					"mentions_count": 2
+				},
+				"primary_keywords": [
+					{
+						"id": 101,
+						"name": "chocolate",
+						"count": 1
+					},
+					{
+						"id": 117,
+						"name": "café",
+						"count": 1
+					}
+				]
+			},
+			{
+				"group": "non_oak",
+				"stats": {
+					"count": 1,
+					"score": 25,
+					"mentions_count": 0
+				},
+				"secondary_keywords": [
+					{
+						"id": 117,
+						"name": "café",
+						"count": 1
+					}
+				]
+			}
+		]
+	}
+}

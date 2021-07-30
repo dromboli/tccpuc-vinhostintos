@@ -1,0 +1,1399 @@
+{
+   "vintage":{
+      "id":166783401,
+      "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-uv",
+      "name":"Beau Marchais Soberanes Vineyard Pinot Noir",
+      "statistics":{
+         "status":"Normal",
+         "ratings_count":14,
+         "ratings_average":3.9,
+         "labels_count":2,
+         "reviews_count":1
+      },
+      "organic_certification_id":null,
+      "certified_biodynamic":null,
+      "image":{
+         "location":"//images.vivino.com/labels/gNlOTxWOTIqQMQPrIBG4Ig.jpg",
+         "variations":{
+            "large":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_375x500.jpg",
+            "medium":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_150x200.jpg",
+            "medium_square":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_150x150.jpg",
+            "small_square":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_80x80.jpg"
+         }
+      },
+      "wine":{
+         "id":9113705,
+         "name":"Soberanes Vineyard Pinot Noir",
+         "seo_name":"soberanes-vineyard-pinot-noir",
+         "type_id":1,
+         "vintage_type":0,
+         "is_natural":false,
+         "region":{
+            "id":850,
+            "name":"Santa Lucia Highlands",
+            "name_en":"",
+            "seo_name":"santa-lucia-highlands",
+            "country":{
+               "code":"us",
+               "name":"Estados Unidos",
+               "native_name":"United States",
+               "seo_name":"united-states",
+               "currency":{
+                  "code":"USD",
+                  "name":"US Dollars",
+                  "prefix":"$",
+                  "suffix":null
+               },
+               "regions_count":357,
+               "users_count":10296204,
+               "wines_count":234580,
+               "wineries_count":26551,
+               "most_used_grapes":[
+                  {
+                     "id":2,
+                     "name":"Cabernet Sauvignon",
+                     "seo_name":"cabernet-sauvignon",
+                     "has_detailed_info":true,
+                     "wines_count":747938
+                  },
+                  {
+                     "id":14,
+                     "name":"Pinot Noir",
+                     "seo_name":"pinot-noir",
+                     "has_detailed_info":true,
+                     "wines_count":529984
+                  },
+                  {
+                     "id":5,
+                     "name":"Chardonnay",
+                     "seo_name":"chardonnay",
+                     "has_detailed_info":true,
+                     "wines_count":559459
+                  }
+               ]
+            },
+            "parent_id":null,
+            "background_image":{
+               "location":"//images.vivino.com/regions/backgrounds/O8mOMP-OR_CV3S-jmW-IbA.jpg",
+               "variations":{
+                  "large":"//thumbs.vivino.com/region_backgrounds/O8mOMP-OR_CV3S-jmW-IbA_1280x760.jpg",
+                  "medium":"//thumbs.vivino.com/region_backgrounds/O8mOMP-OR_CV3S-jmW-IbA_600x356.jpg"
+               }
+            },
+            "class":{
+               "typecast_map":{
+                  "background_image":{
+                     
+                  },
+                  "class":{
+                     
+                  }
+               }
+            },
+            "statistics":{
+               "wineries_count":0,
+               "wines_count":0,
+               "sub_regions_count":0,
+               "parent_regions_count":0
+            }
+         },
+         "review_status":2,
+         "winery":{
+            "id":288716,
+            "name":"Beau Marchais",
+            "seo_name":"beau-marchais",
+            "status":0,
+            "review_status":"In progress",
+            "statistics":{
+               "ratings_count":23,
+               "ratings_average":4.2,
+               "labels_count":108,
+               "wines_count":2
+            },
+            "region":{
+               "id":24,
+               "name":"Califórnia",
+               "name_en":"",
+               "seo_name":"california",
+               "country":{
+                  "code":"us",
+                  "name":"Estados Unidos",
+                  "native_name":"United States",
+                  "seo_name":"united-states",
+                  "currency":{
+                     "code":"USD",
+                     "name":"US Dollars",
+                     "prefix":"$",
+                     "suffix":null
+                  },
+                  "regions_count":357,
+                  "users_count":10296204,
+                  "wines_count":234580,
+                  "wineries_count":26551,
+                  "most_used_grapes":[
+                     {
+                        "id":2,
+                        "name":"Cabernet Sauvignon",
+                        "seo_name":"cabernet-sauvignon",
+                        "has_detailed_info":true,
+                        "wines_count":747938
+                     },
+                     {
+                        "id":14,
+                        "name":"Pinot Noir",
+                        "seo_name":"pinot-noir",
+                        "has_detailed_info":true,
+                        "wines_count":529984
+                     },
+                     {
+                        "id":5,
+                        "name":"Chardonnay",
+                        "seo_name":"chardonnay",
+                        "has_detailed_info":true,
+                        "wines_count":559459
+                     }
+                  ]
+               },
+               "parent_id":null,
+               "background_image":{
+                  "location":"//images.vivino.com/regions/backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ.jpg",
+                  "variations":{
+                     "large":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_1280x760.jpg",
+                     "medium":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_600x356.jpg"
+                  }
+               },
+               "class":{
+                  "typecast_map":{
+                     "background_image":{
+                        
+                     },
+                     "class":{
+                        
+                     }
+                  }
+               },
+               "statistics":{
+                  "wineries_count":0,
+                  "wines_count":0,
+                  "sub_regions_count":0,
+                  "parent_regions_count":0
+               }
+            },
+            "business_name":"Beau Marchais",
+            "description":"",
+            "specialists_notes":"",
+            "phone":"",
+            "email":"",
+            "facebook":"",
+            "instagram":"",
+            "is_claimed":false,
+            "twitter":"",
+            "website":"https://beaumarchaiswine.com",
+            "winemaker":null,
+            "wine_maker":null,
+            "address":{
+               "title":null,
+               "name":null,
+               "street":null,
+               "street2":null,
+               "neighborhood":null,
+               "city":null,
+               "zip":null,
+               "state":null,
+               "country":{
+                  "code":"us",
+                  "name":"Estados Unidos",
+                  "native_name":"United States",
+                  "seo_name":"united-states",
+                  "currency":{
+                     "code":"USD",
+                     "name":"US Dollars",
+                     "prefix":"$",
+                     "suffix":null
+                  },
+                  "regions_count":357,
+                  "users_count":10296204,
+                  "wines_count":234580,
+                  "wineries_count":26551,
+                  "most_used_grapes":[
+                     {
+                        "id":2,
+                        "name":"Cabernet Sauvignon",
+                        "seo_name":"cabernet-sauvignon",
+                        "has_detailed_info":true,
+                        "wines_count":747938
+                     },
+                     {
+                        "id":14,
+                        "name":"Pinot Noir",
+                        "seo_name":"pinot-noir",
+                        "has_detailed_info":true,
+                        "wines_count":529984
+                     },
+                     {
+                        "id":5,
+                        "name":"Chardonnay",
+                        "seo_name":"chardonnay",
+                        "has_detailed_info":true,
+                        "wines_count":559459
+                     }
+                  ]
+               },
+               "company":null,
+               "phone":null,
+               "external_id":null,
+               "residential":null,
+               "vat_number":null,
+               "vat_code":null,
+               "addition":null
+            },
+            "image":null,
+            "background_image":null,
+            "location":null,
+            "winery_group":null,
+            "first_wines":[
+               
+            ]
+         },
+         "statistics":{
+            "status":"Normal",
+            "ratings_count":14,
+            "ratings_average":3.9,
+            "labels_count":70,
+            "vintages_count":5
+         },
+         "rank":{
+            "country":{
+               "description":"Classificação no(a) Estados Unidos",
+               "total":156007,
+               "rank":65859
+            },
+            "region":{
+               "description":"Classificação na região do vinho",
+               "total":96049,
+               "rank":46907
+            },
+            "winery":{
+               "description":"Classificação na vinícola",
+               "total":2,
+               "rank":2
+            },
+            "wine_type":{
+               "description":"Rank within all Vinho tinto",
+               "total":631092,
+               "rank":266296
+            },
+            "global":{
+               "description":"Classificação global",
+               "total":1232162,
+               "rank":482381
+            }
+         },
+         "hidden":false,
+         "vintages":[
+            {
+               "id":166783402,
+               "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-2019",
+               "name":"Beau Marchais Soberanes Vineyard Pinot Noir 2019",
+               "statistics":{
+                  "status":"Normal",
+                  "ratings_count":10,
+                  "ratings_average":4.1,
+                  "labels_count":65,
+                  "reviews_count":5
+               },
+               "year":2019,
+               "grapes":null,
+               "has_valid_ratings":true
+            },
+            {
+               "id":166783401,
+               "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-uv",
+               "name":"Beau Marchais Soberanes Vineyard Pinot Noir",
+               "statistics":{
+                  "status":"Normal",
+                  "ratings_count":14,
+                  "ratings_average":3.9,
+                  "labels_count":2,
+                  "reviews_count":1
+               },
+               "year":0,
+               "grapes":null,
+               "has_valid_ratings":true
+            }
+         ],
+         "description":"",
+         "grapes":[
+            {
+               "id":14,
+               "name":"Pinot Noir",
+               "seo_name":"pinot-noir",
+               "has_detailed_info":true,
+               "wines_count":529984
+            }
+         ],
+         "foods":[
+            {
+               "id":4,
+               "name":"Carne de vaca",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/4_beef.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                  }
+               },
+               "seo_name":"beef"
+            },
+            {
+               "id":9,
+               "name":"Vitela",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/9_veal.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                  }
+               },
+               "seo_name":"veal"
+            },
+            {
+               "id":11,
+               "name":"Carne de caça (cervo, veado)",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/11_venison.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/11_venison_932x810.png"
+                  }
+               },
+               "seo_name":"game"
+            },
+            {
+               "id":20,
+               "name":"Aves",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/20_chicken.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                  }
+               },
+               "seo_name":"poultry"
+            }
+         ],
+         "non_vintage":false,
+         "alcohol":15.1,
+         "sweetness_id":null,
+         "closure":null,
+         "vintage_mask_raw":null,
+         "created_at":"2020-12-19T09:51:25Z",
+         "is_first_wine":false,
+         "style":{
+            "id":157,
+            "seo_name":"californian-pinot-noir",
+            "regional_name":"Californian",
+            "varietal_name":"Pinot Noir",
+            "name":"Pinot Noir californiano",
+            "image":null,
+            "background_image":{
+               "location":"//images.vivino.com/backgrounds/styles/T5g4cf1ASz6cvWgj6japdw.jpg",
+               "variations":{
+                  "small":"//images.vivino.com/backgrounds/styles/thumbs/T5g4cf1ASz6cvWgj6japdw_932x810.jpg"
+               }
+            },
+            "description":"Pinot Noir has the well deserved reputation of being a finicky and difficult grape to cultivate. It thrives in cooler climates like Burgundy and the Willamette Valley in Oregon, but is also widely planted throughout sun-drenched California.\n\nPinot Noir reflects its terroir, or place of origin, more than just about any other variety. That's certainly part of its broad appeal, and right now, there is revolution happening in California.\n\nIn Pursuit of Balance or IPOB is a thriving group of producers founded on the notion that California Pinot Noir should be balanced, rather than decadent and lush—the prevailing style over the past few decades. Has the focus shifted? There are compelling arguments on both sides of the issue.\n\nIt pays to do a little research, then, to figure out which producers are making fully ripe, high octane Pinots and those that are making a style that accents subtlety and vibrant acidity. Not that both styles can't be great, they can be.\n\nRicher Pinot Noir, from warmer regions like the Russian River Valley tends to exhibit more dark fruit, in general, they are fuller wines with greater concentration and higher alcohol, up to 15% ABV.\n\nPinots from cooler regions like Sonoma Coast are lighter-bodied and display more red fruit, floral notes and have brighter acidity, often with a dash of minerality. Alcohol percentage and even the color of the wine can clue you in when shopping.",
+            "blurb":null,
+            "interesting_facts":[
+               "“Sideways” catapulted California Pinot Noir to stardom, since the release of the hit movie in 2004, Pinot Noir production has grown by a whopping 81%.",
+               "Oregon is renowned for its Pinot Noir, but California actually produces more.",
+               "Prone to genetic mutation, Pinot Noir has more known clones than any other grape variety, certainly more than Dolly the sheep.",
+               "Pinot Noir is widely regarded as one of the most romantic wines, it is often described as perfumy and sweet, despite being a dry wine."
+            ],
+            "body":3,
+            "body_description":"Encorpado médio",
+            "acidity":3,
+            "acidity_description":"Alto",
+            "country":{
+               "code":"us",
+               "name":"Estados Unidos",
+               "native_name":"United States",
+               "seo_name":"united-states",
+               "currency":{
+                  "code":"USD",
+                  "name":"US Dollars",
+                  "prefix":"$",
+                  "suffix":null
+               },
+               "regions_count":357,
+               "users_count":10296204,
+               "wines_count":234580,
+               "wineries_count":26551,
+               "most_used_grapes":[
+                  {
+                     "id":2,
+                     "name":"Cabernet Sauvignon",
+                     "seo_name":"cabernet-sauvignon",
+                     "has_detailed_info":true,
+                     "wines_count":747938
+                  },
+                  {
+                     "id":14,
+                     "name":"Pinot Noir",
+                     "seo_name":"pinot-noir",
+                     "has_detailed_info":true,
+                     "wines_count":529984
+                  },
+                  {
+                     "id":5,
+                     "name":"Chardonnay",
+                     "seo_name":"chardonnay",
+                     "has_detailed_info":true,
+                     "wines_count":559459
+                  }
+               ]
+            },
+            "wine_type_id":1,
+            "food":[
+               {
+                  "id":4,
+                  "name":"Beef",
+                  "background_image":{
+                     "location":"//images.vivino.com/backgrounds/foods/4_beef.png",
+                     "variations":{
+                        "small":"//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                     }
+                  },
+                  "seo_name":"beef"
+               },
+               {
+                  "id":9,
+                  "name":"Veal",
+                  "background_image":{
+                     "location":"//images.vivino.com/backgrounds/foods/9_veal.png",
+                     "variations":{
+                        "small":"//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                     }
+                  },
+                  "seo_name":"veal"
+               },
+               {
+                  "id":11,
+                  "name":"Game (deer, venison)",
+                  "background_image":{
+                     "location":"//images.vivino.com/backgrounds/foods/11_venison.png",
+                     "variations":{
+                        "small":"//images.vivino.com/backgrounds/foods/thumbs/11_venison_932x810.png"
+                     }
+                  },
+                  "seo_name":"game"
+               },
+               {
+                  "id":20,
+                  "name":"Poultry",
+                  "background_image":{
+                     "location":"//images.vivino.com/backgrounds/foods/20_chicken.png",
+                     "variations":{
+                        "small":"//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                     }
+                  },
+                  "seo_name":"poultry"
+               }
+            ],
+            "grapes":[
+               {
+                  "id":14,
+                  "name":"Pinot Noir",
+                  "seo_name":"pinot-noir",
+                  "has_detailed_info":true,
+                  "wines_count":529984
+               }
+            ],
+            "region":{
+               "id":24,
+               "name":"Califórnia",
+               "name_en":"",
+               "seo_name":"california",
+               "country":{
+                  "code":"us",
+                  "name":"Estados Unidos",
+                  "native_name":"United States",
+                  "seo_name":"united-states",
+                  "currency":{
+                     "code":"USD",
+                     "name":"US Dollars",
+                     "prefix":"$",
+                     "suffix":null
+                  },
+                  "regions_count":357,
+                  "users_count":10296204,
+                  "wines_count":234580,
+                  "wineries_count":26551,
+                  "most_used_grapes":[
+                     {
+                        "id":2,
+                        "name":"Cabernet Sauvignon",
+                        "seo_name":"cabernet-sauvignon",
+                        "has_detailed_info":true,
+                        "wines_count":747938
+                     },
+                     {
+                        "id":14,
+                        "name":"Pinot Noir",
+                        "seo_name":"pinot-noir",
+                        "has_detailed_info":true,
+                        "wines_count":529984
+                     },
+                     {
+                        "id":5,
+                        "name":"Chardonnay",
+                        "seo_name":"chardonnay",
+                        "has_detailed_info":true,
+                        "wines_count":559459
+                     }
+                  ]
+               },
+               "parent_id":null,
+               "background_image":{
+                  "location":"//images.vivino.com/regions/backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ.jpg",
+                  "variations":{
+                     "large":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_1280x760.jpg",
+                     "medium":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_600x356.jpg"
+                  }
+               },
+               "class":{
+                  "typecast_map":{
+                     "background_image":{
+                        
+                     },
+                     "class":{
+                        
+                     }
+                  }
+               },
+               "statistics":{
+                  "wineries_count":8646,
+                  "wines_count":29344,
+                  "sub_regions_count":5,
+                  "parent_regions_count":0
+               }
+            }
+         },
+         "has_valid_ratings":true
+      },
+      "description":"",
+      "expert_reviews":null,
+      "wine_critic_reviews":[
+         
+      ],
+      "awards":[
+         
+      ],
+      "ratings_distribution":{
+         "1":1,
+         "2":0,
+         "3":2,
+         "4":9,
+         "5":2
+      },
+      "ranking":{
+         "country":{
+            "description":"Classificação no(a) Estados Unidos",
+            "total":948031,
+            "rank":225820
+         },
+         "region":{
+            "description":"Classificação na região do vinho",
+            "total":643367,
+            "rank":175119
+         },
+         "winery":{
+            "description":"Classificação na vinícola",
+            "total":5,
+            "rank":3
+         },
+         "global":{
+            "description":"Classificação global",
+            "total":8357417,
+            "rank":1573595
+         }
+      },
+      "wine_facts":{
+         
+      },
+      "winemaker":null,
+      "wine_maker":null,
+      "grape_composition":{
+         
+      },
+      "year":"",
+      "grapes":null,
+      "has_valid_ratings":true
+   },
+   "carts":null,
+   "basic_user_vintage":null,
+   "full_region":null,
+   "tastes":null,
+   "highlights":[
+      {
+         "vintage_id":166783402,
+         "highlight_type":"best_user_rated",
+         "message":"Esta safra teve melhor classificação que todos os outros anos para este vinho.",
+         "icon":"https://images.vivino.com/highlights/icon/best_user_rated.svg",
+         "metadata":{
+            "price":null,
+            "wine_id":9113705,
+            "toplist":null,
+            "ws_award":null,
+            "critic_review_id":null,
+            "ratings_average":4.1,
+            "ratings_count":10,
+            "vintage_year":"2019",
+            "rank_type":null,
+            "ranks":{
+               "country":{
+                  "description":"Classificação no(a) Estados Unidos",
+                  "total":948031,
+                  "rank":173916
+               },
+               "region":{
+                  "description":"Classificação na região do vinho",
+                  "total":643367,
+                  "rank":139342
+               },
+               "winery":{
+                  "description":"Classificação na vinícola",
+                  "total":5,
+                  "rank":2
+               },
+               "global":{
+                  "description":"Classificação global",
+                  "total":8357417,
+                  "rank":1102720
+               }
+            },
+            "style":{
+               "id":157,
+               "seo_name":"californian-pinot-noir",
+               "regional_name":"Californian",
+               "varietal_name":"Pinot Noir",
+               "name":"Pinot Noir californiano",
+               "image":null,
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/styles/T5g4cf1ASz6cvWgj6japdw.jpg",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/styles/thumbs/T5g4cf1ASz6cvWgj6japdw_932x810.jpg"
+                  }
+               },
+               "description":"Pinot Noir has the well deserved reputation of being a finicky and difficult grape to cultivate. It thrives in cooler climates like Burgundy and the Willamette Valley in Oregon, but is also widely planted throughout sun-drenched California.\n\nPinot Noir reflects its terroir, or place of origin, more than just about any other variety. That's certainly part of its broad appeal, and right now, there is revolution happening in California.\n\nIn Pursuit of Balance or IPOB is a thriving group of producers founded on the notion that California Pinot Noir should be balanced, rather than decadent and lush—the prevailing style over the past few decades. Has the focus shifted? There are compelling arguments on both sides of the issue.\n\nIt pays to do a little research, then, to figure out which producers are making fully ripe, high octane Pinots and those that are making a style that accents subtlety and vibrant acidity. Not that both styles can't be great, they can be.\n\nRicher Pinot Noir, from warmer regions like the Russian River Valley tends to exhibit more dark fruit, in general, they are fuller wines with greater concentration and higher alcohol, up to 15% ABV.\n\nPinots from cooler regions like Sonoma Coast are lighter-bodied and display more red fruit, floral notes and have brighter acidity, often with a dash of minerality. Alcohol percentage and even the color of the wine can clue you in when shopping.",
+               "blurb":null,
+               "interesting_facts":[
+                  "“Sideways” catapulted California Pinot Noir to stardom, since the release of the hit movie in 2004, Pinot Noir production has grown by a whopping 81%.",
+                  "Oregon is renowned for its Pinot Noir, but California actually produces more.",
+                  "Prone to genetic mutation, Pinot Noir has more known clones than any other grape variety, certainly more than Dolly the sheep.",
+                  "Pinot Noir is widely regarded as one of the most romantic wines, it is often described as perfumy and sweet, despite being a dry wine."
+               ],
+               "body":3,
+               "body_description":"Encorpado médio",
+               "acidity":3,
+               "acidity_description":"Alto",
+               "country":{
+                  "code":"us",
+                  "name":"Estados Unidos",
+                  "native_name":"United States",
+                  "seo_name":"united-states",
+                  "currency":{
+                     "code":"USD",
+                     "name":"US Dollars",
+                     "prefix":"$",
+                     "suffix":null
+                  },
+                  "regions_count":357,
+                  "users_count":10296204,
+                  "wines_count":234580,
+                  "wineries_count":26551,
+                  "most_used_grapes":[
+                     {
+                        "id":2,
+                        "name":"Cabernet Sauvignon",
+                        "seo_name":"cabernet-sauvignon",
+                        "has_detailed_info":true,
+                        "wines_count":747938
+                     },
+                     {
+                        "id":14,
+                        "name":"Pinot Noir",
+                        "seo_name":"pinot-noir",
+                        "has_detailed_info":true,
+                        "wines_count":529984
+                     },
+                     {
+                        "id":5,
+                        "name":"Chardonnay",
+                        "seo_name":"chardonnay",
+                        "has_detailed_info":true,
+                        "wines_count":559459
+                     }
+                  ]
+               },
+               "wine_type_id":1,
+               "food":[
+                  {
+                     "id":4,
+                     "name":"Beef",
+                     "background_image":{
+                        "location":"//images.vivino.com/backgrounds/foods/4_beef.png",
+                        "variations":{
+                           "small":"//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                        }
+                     },
+                     "seo_name":"beef"
+                  },
+                  {
+                     "id":9,
+                     "name":"Veal",
+                     "background_image":{
+                        "location":"//images.vivino.com/backgrounds/foods/9_veal.png",
+                        "variations":{
+                           "small":"//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                        }
+                     },
+                     "seo_name":"veal"
+                  },
+                  {
+                     "id":11,
+                     "name":"Game (deer, venison)",
+                     "background_image":{
+                        "location":"//images.vivino.com/backgrounds/foods/11_venison.png",
+                        "variations":{
+                           "small":"//images.vivino.com/backgrounds/foods/thumbs/11_venison_932x810.png"
+                        }
+                     },
+                     "seo_name":"game"
+                  },
+                  {
+                     "id":20,
+                     "name":"Poultry",
+                     "background_image":{
+                        "location":"//images.vivino.com/backgrounds/foods/20_chicken.png",
+                        "variations":{
+                           "small":"//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                        }
+                     },
+                     "seo_name":"poultry"
+                  }
+               ],
+               "grapes":[
+                  {
+                     "id":14,
+                     "name":"Pinot Noir",
+                     "seo_name":"pinot-noir",
+                     "has_detailed_info":true,
+                     "wines_count":529984
+                  }
+               ],
+               "region":{
+                  "id":24,
+                  "name":"Califórnia",
+                  "name_en":"",
+                  "seo_name":"california",
+                  "country":{
+                     "code":"us",
+                     "name":"Estados Unidos",
+                     "native_name":"United States",
+                     "seo_name":"united-states",
+                     "currency":{
+                        "code":"USD",
+                        "name":"US Dollars",
+                        "prefix":"$",
+                        "suffix":null
+                     },
+                     "regions_count":357,
+                     "users_count":10296204,
+                     "wines_count":234580,
+                     "wineries_count":26551,
+                     "most_used_grapes":[
+                        {
+                           "id":2,
+                           "name":"Cabernet Sauvignon",
+                           "seo_name":"cabernet-sauvignon",
+                           "has_detailed_info":true,
+                           "wines_count":747938
+                        },
+                        {
+                           "id":14,
+                           "name":"Pinot Noir",
+                           "seo_name":"pinot-noir",
+                           "has_detailed_info":true,
+                           "wines_count":529984
+                        },
+                        {
+                           "id":5,
+                           "name":"Chardonnay",
+                           "seo_name":"chardonnay",
+                           "has_detailed_info":true,
+                           "wines_count":559459
+                        }
+                     ]
+                  },
+                  "parent_id":null,
+                  "background_image":{
+                     "location":"//images.vivino.com/regions/backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ.jpg",
+                     "variations":{
+                        "large":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_1280x760.jpg",
+                        "medium":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_600x356.jpg"
+                     }
+                  },
+                  "class":{
+                     "typecast_map":{
+                        "background_image":{
+                           
+                        },
+                        "class":{
+                           
+                        }
+                     }
+                  },
+                  "statistics":{
+                     "wineries_count":8646,
+                     "wines_count":29344,
+                     "sub_regions_count":5,
+                     "parent_regions_count":0
+                  }
+               }
+            }
+         },
+         "vintage_year":2019
+      }
+   ],
+   "recommended_vintages":[
+      {
+         "vintage":{
+            "id":166783402,
+            "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-2019",
+            "name":"Beau Marchais Soberanes Vineyard Pinot Noir 2019",
+            "statistics":{
+               "status":"Normal",
+               "ratings_count":10,
+               "ratings_average":4.1,
+               "labels_count":65,
+               "reviews_count":5
+            },
+            "year":2019,
+            "grapes":null,
+            "has_valid_ratings":true
+         },
+         "type":"best_user_rated",
+         "highlight_icon":"https://images.vivino.com/highlights/icon/best_user_rated.svg",
+         "price":null
+      }
+   ],
+   "prices_and_availabilities":[
+      
+   ],
+   "wine":{
+      "id":9113705,
+      "name":"Soberanes Vineyard Pinot Noir",
+      "seo_name":"soberanes-vineyard-pinot-noir",
+      "type_id":1,
+      "vintage_type":0,
+      "is_natural":false,
+      "region":{
+         "id":850,
+         "name":"Santa Lucia Highlands",
+         "name_en":"",
+         "seo_name":"santa-lucia-highlands",
+         "country":{
+            "code":"us",
+            "name":"Estados Unidos",
+            "native_name":"United States",
+            "seo_name":"united-states",
+            "currency":{
+               "code":"USD",
+               "name":"US Dollars",
+               "prefix":"$",
+               "suffix":null
+            },
+            "regions_count":357,
+            "users_count":10296204,
+            "wines_count":234580,
+            "wineries_count":26551,
+            "most_used_grapes":[
+               {
+                  "id":2,
+                  "name":"Cabernet Sauvignon",
+                  "seo_name":"cabernet-sauvignon",
+                  "has_detailed_info":true,
+                  "wines_count":747938
+               },
+               {
+                  "id":14,
+                  "name":"Pinot Noir",
+                  "seo_name":"pinot-noir",
+                  "has_detailed_info":true,
+                  "wines_count":529984
+               },
+               {
+                  "id":5,
+                  "name":"Chardonnay",
+                  "seo_name":"chardonnay",
+                  "has_detailed_info":true,
+                  "wines_count":559459
+               }
+            ]
+         },
+         "parent_id":null,
+         "background_image":{
+            "location":"//images.vivino.com/regions/backgrounds/O8mOMP-OR_CV3S-jmW-IbA.jpg",
+            "variations":{
+               "large":"//thumbs.vivino.com/region_backgrounds/O8mOMP-OR_CV3S-jmW-IbA_1280x760.jpg",
+               "medium":"//thumbs.vivino.com/region_backgrounds/O8mOMP-OR_CV3S-jmW-IbA_600x356.jpg"
+            }
+         },
+         "class":{
+            "typecast_map":{
+               "background_image":{
+                  
+               },
+               "class":{
+                  
+               }
+            }
+         },
+         "statistics":{
+            "wineries_count":0,
+            "wines_count":0,
+            "sub_regions_count":0,
+            "parent_regions_count":0
+         }
+      },
+      "review_status":2,
+      "winery":{
+         "id":288716,
+         "name":"Beau Marchais",
+         "seo_name":"beau-marchais",
+         "status":0,
+         "review_status":"In progress",
+         "statistics":{
+            "ratings_count":23,
+            "ratings_average":4.2,
+            "labels_count":108,
+            "wines_count":2
+         },
+         "region":{
+            "id":24,
+            "name":"Califórnia",
+            "name_en":"",
+            "seo_name":"california",
+            "country":{
+               "code":"us",
+               "name":"Estados Unidos",
+               "native_name":"United States",
+               "seo_name":"united-states",
+               "currency":{
+                  "code":"USD",
+                  "name":"US Dollars",
+                  "prefix":"$",
+                  "suffix":null
+               },
+               "regions_count":357,
+               "users_count":10296204,
+               "wines_count":234580,
+               "wineries_count":26551,
+               "most_used_grapes":[
+                  {
+                     "id":2,
+                     "name":"Cabernet Sauvignon",
+                     "seo_name":"cabernet-sauvignon",
+                     "has_detailed_info":true,
+                     "wines_count":747938
+                  },
+                  {
+                     "id":14,
+                     "name":"Pinot Noir",
+                     "seo_name":"pinot-noir",
+                     "has_detailed_info":true,
+                     "wines_count":529984
+                  },
+                  {
+                     "id":5,
+                     "name":"Chardonnay",
+                     "seo_name":"chardonnay",
+                     "has_detailed_info":true,
+                     "wines_count":559459
+                  }
+               ]
+            },
+            "parent_id":null,
+            "background_image":{
+               "location":"//images.vivino.com/regions/backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ.jpg",
+               "variations":{
+                  "large":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_1280x760.jpg",
+                  "medium":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_600x356.jpg"
+               }
+            },
+            "class":{
+               "typecast_map":{
+                  "background_image":{
+                     
+                  },
+                  "class":{
+                     
+                  }
+               }
+            },
+            "statistics":{
+               "wineries_count":0,
+               "wines_count":0,
+               "sub_regions_count":0,
+               "parent_regions_count":0
+            }
+         }
+      },
+      "image":{
+         "location":"//images.vivino.com/labels/gNlOTxWOTIqQMQPrIBG4Ig.jpg",
+         "variations":{
+            "large":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_375x500.jpg",
+            "medium":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_150x200.jpg",
+            "medium_square":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_150x150.jpg",
+            "small_square":"//images.vivino.com/thumbs/gNlOTxWOTIqQMQPrIBG4Ig_80x80.jpg"
+         }
+      },
+      "statistics":{
+         "status":"Normal",
+         "ratings_count":14,
+         "ratings_average":3.9,
+         "labels_count":70,
+         "vintages_count":5
+      },
+      "rank":null,
+      "hidden":false,
+      "vintages":[
+         {
+            "id":166783402,
+            "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-2019",
+            "name":"Beau Marchais Soberanes Vineyard Pinot Noir 2019",
+            "statistics":{
+               "status":"Normal",
+               "ratings_count":10,
+               "ratings_average":4.1,
+               "labels_count":65,
+               "reviews_count":5
+            },
+            "year":2019,
+            "grapes":null,
+            "has_valid_ratings":true
+         },
+         {
+            "id":167256942,
+            "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-2018",
+            "name":"Beau Marchais Soberanes Vineyard Pinot Noir 2018",
+            "statistics":{
+               "status":"BelowThreshold",
+               "ratings_count":0,
+               "ratings_average":0,
+               "labels_count":0,
+               "reviews_count":0
+            },
+            "year":2018,
+            "grapes":null,
+            "has_valid_ratings":false
+         },
+         {
+            "id":167347275,
+            "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-2016",
+            "name":"Beau Marchais Soberanes Vineyard Pinot Noir 2016",
+            "statistics":{
+               "status":"BelowThreshold",
+               "ratings_count":0,
+               "ratings_average":0,
+               "labels_count":0,
+               "reviews_count":0
+            },
+            "year":2016,
+            "grapes":null,
+            "has_valid_ratings":false
+         },
+         {
+            "id":167345798,
+            "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-2010",
+            "name":"Beau Marchais Soberanes Vineyard Pinot Noir 2010",
+            "statistics":{
+               "status":"BelowThreshold",
+               "ratings_count":0,
+               "ratings_average":0,
+               "labels_count":0,
+               "reviews_count":0
+            },
+            "year":2010,
+            "grapes":null,
+            "has_valid_ratings":false
+         },
+         {
+            "id":166783401,
+            "seo_name":"beau-marchais-soberanes-vineyard-pinot-noir-uv",
+            "name":"Beau Marchais Soberanes Vineyard Pinot Noir",
+            "statistics":{
+               "status":"Normal",
+               "ratings_count":14,
+               "ratings_average":3.9,
+               "labels_count":2,
+               "reviews_count":1
+            },
+            "year":0,
+            "grapes":null,
+            "has_valid_ratings":true
+         }
+      ],
+      "description":"",
+      "grapes":[
+         {
+            "id":14,
+            "name":"Pinot Noir",
+            "seo_name":"pinot-noir",
+            "has_detailed_info":true,
+            "wines_count":529984
+         }
+      ],
+      "foods":[
+         {
+            "id":4,
+            "name":"Carne de vaca",
+            "background_image":{
+               "location":"//images.vivino.com/backgrounds/foods/4_beef.png",
+               "variations":{
+                  "small":"//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+               }
+            },
+            "seo_name":"beef"
+         },
+         {
+            "id":9,
+            "name":"Vitela",
+            "background_image":{
+               "location":"//images.vivino.com/backgrounds/foods/9_veal.png",
+               "variations":{
+                  "small":"//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+               }
+            },
+            "seo_name":"veal"
+         },
+         {
+            "id":11,
+            "name":"Carne de caça (cervo, veado)",
+            "background_image":{
+               "location":"//images.vivino.com/backgrounds/foods/11_venison.png",
+               "variations":{
+                  "small":"//images.vivino.com/backgrounds/foods/thumbs/11_venison_932x810.png"
+               }
+            },
+            "seo_name":"game"
+         },
+         {
+            "id":20,
+            "name":"Aves",
+            "background_image":{
+               "location":"//images.vivino.com/backgrounds/foods/20_chicken.png",
+               "variations":{
+                  "small":"//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+               }
+            },
+            "seo_name":"poultry"
+         }
+      ],
+      "non_vintage":false,
+      "alcohol":15.1,
+      "sweetness_id":null,
+      "closure":null,
+      "vintage_mask_raw":null,
+      "created_at":"2020-12-19T09:51:25Z",
+      "is_first_wine":false,
+      "style":{
+         "id":157,
+         "seo_name":"californian-pinot-noir",
+         "regional_name":"Californian",
+         "varietal_name":"Pinot Noir",
+         "name":"Pinot Noir californiano",
+         "image":null,
+         "background_image":{
+            "location":"//images.vivino.com/backgrounds/styles/T5g4cf1ASz6cvWgj6japdw.jpg",
+            "variations":{
+               "small":"//images.vivino.com/backgrounds/styles/thumbs/T5g4cf1ASz6cvWgj6japdw_932x810.jpg"
+            }
+         },
+         "description":"Pinot Noir has the well deserved reputation of being a finicky and difficult grape to cultivate. It thrives in cooler climates like Burgundy and the Willamette Valley in Oregon, but is also widely planted throughout sun-drenched California.\n\nPinot Noir reflects its terroir, or place of origin, more than just about any other variety. That's certainly part of its broad appeal, and right now, there is revolution happening in California.\n\nIn Pursuit of Balance or IPOB is a thriving group of producers founded on the notion that California Pinot Noir should be balanced, rather than decadent and lush—the prevailing style over the past few decades. Has the focus shifted? There are compelling arguments on both sides of the issue.\n\nIt pays to do a little research, then, to figure out which producers are making fully ripe, high octane Pinots and those that are making a style that accents subtlety and vibrant acidity. Not that both styles can't be great, they can be.\n\nRicher Pinot Noir, from warmer regions like the Russian River Valley tends to exhibit more dark fruit, in general, they are fuller wines with greater concentration and higher alcohol, up to 15% ABV.\n\nPinots from cooler regions like Sonoma Coast are lighter-bodied and display more red fruit, floral notes and have brighter acidity, often with a dash of minerality. Alcohol percentage and even the color of the wine can clue you in when shopping.",
+         "blurb":null,
+         "interesting_facts":[
+            "“Sideways” catapulted California Pinot Noir to stardom, since the release of the hit movie in 2004, Pinot Noir production has grown by a whopping 81%.",
+            "Oregon is renowned for its Pinot Noir, but California actually produces more.",
+            "Prone to genetic mutation, Pinot Noir has more known clones than any other grape variety, certainly more than Dolly the sheep.",
+            "Pinot Noir is widely regarded as one of the most romantic wines, it is often described as perfumy and sweet, despite being a dry wine."
+         ],
+         "body":3,
+         "body_description":"Encorpado médio",
+         "acidity":3,
+         "acidity_description":"Alto",
+         "country":{
+            "code":"us",
+            "name":"Estados Unidos",
+            "native_name":"United States",
+            "seo_name":"united-states",
+            "currency":{
+               "code":"USD",
+               "name":"US Dollars",
+               "prefix":"$",
+               "suffix":null
+            },
+            "regions_count":357,
+            "users_count":10296204,
+            "wines_count":234580,
+            "wineries_count":26551,
+            "most_used_grapes":[
+               {
+                  "id":2,
+                  "name":"Cabernet Sauvignon",
+                  "seo_name":"cabernet-sauvignon",
+                  "has_detailed_info":true,
+                  "wines_count":747938
+               },
+               {
+                  "id":14,
+                  "name":"Pinot Noir",
+                  "seo_name":"pinot-noir",
+                  "has_detailed_info":true,
+                  "wines_count":529984
+               },
+               {
+                  "id":5,
+                  "name":"Chardonnay",
+                  "seo_name":"chardonnay",
+                  "has_detailed_info":true,
+                  "wines_count":559459
+               }
+            ]
+         },
+         "wine_type_id":1,
+         "food":[
+            {
+               "id":4,
+               "name":"Beef",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/4_beef.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/4_beef_932x810.png"
+                  }
+               },
+               "seo_name":"beef"
+            },
+            {
+               "id":9,
+               "name":"Veal",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/9_veal.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/9_veal_932x810.png"
+                  }
+               },
+               "seo_name":"veal"
+            },
+            {
+               "id":11,
+               "name":"Game (deer, venison)",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/11_venison.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/11_venison_932x810.png"
+                  }
+               },
+               "seo_name":"game"
+            },
+            {
+               "id":20,
+               "name":"Poultry",
+               "background_image":{
+                  "location":"//images.vivino.com/backgrounds/foods/20_chicken.png",
+                  "variations":{
+                     "small":"//images.vivino.com/backgrounds/foods/thumbs/20_chicken_932x810.png"
+                  }
+               },
+               "seo_name":"poultry"
+            }
+         ],
+         "grapes":[
+            {
+               "id":14,
+               "name":"Pinot Noir",
+               "seo_name":"pinot-noir",
+               "has_detailed_info":true,
+               "wines_count":529984
+            }
+         ],
+         "region":{
+            "id":24,
+            "name":"Califórnia",
+            "name_en":"",
+            "seo_name":"california",
+            "country":{
+               "code":"us",
+               "name":"Estados Unidos",
+               "native_name":"United States",
+               "seo_name":"united-states",
+               "currency":{
+                  "code":"USD",
+                  "name":"US Dollars",
+                  "prefix":"$",
+                  "suffix":null
+               },
+               "regions_count":357,
+               "users_count":10296204,
+               "wines_count":234580,
+               "wineries_count":26551,
+               "most_used_grapes":[
+                  {
+                     "id":2,
+                     "name":"Cabernet Sauvignon",
+                     "seo_name":"cabernet-sauvignon",
+                     "has_detailed_info":true,
+                     "wines_count":747938
+                  },
+                  {
+                     "id":14,
+                     "name":"Pinot Noir",
+                     "seo_name":"pinot-noir",
+                     "has_detailed_info":true,
+                     "wines_count":529984
+                  },
+                  {
+                     "id":5,
+                     "name":"Chardonnay",
+                     "seo_name":"chardonnay",
+                     "has_detailed_info":true,
+                     "wines_count":559459
+                  }
+               ]
+            },
+            "parent_id":null,
+            "background_image":{
+               "location":"//images.vivino.com/regions/backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ.jpg",
+               "variations":{
+                  "large":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_1280x760.jpg",
+                  "medium":"//thumbs.vivino.com/region_backgrounds/HNZzLu5DSQ2VV5Ls5S02OQ_600x356.jpg"
+               }
+            },
+            "class":{
+               "typecast_map":{
+                  "background_image":{
+                     
+                  },
+                  "class":{
+                     
+                  }
+               }
+            },
+            "statistics":{
+               "wineries_count":8646,
+               "wines_count":29344,
+               "sub_regions_count":5,
+               "parent_regions_count":0
+            }
+         }
+      },
+      "has_valid_ratings":true
+   }
+}
